@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/ignite.png" width="150px" />
+  <img src="assets/ignite.png" width="150px" />
 </div>
 <h1 align="center">Ignite Challenge 1: ReactJS Fundamentals</h1>
 <h4 align="center">by <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a></h4>
